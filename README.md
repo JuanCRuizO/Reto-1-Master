@@ -5,8 +5,8 @@
 
 ![Microsoft Azure](https://www.educadictos.com/wp-content/uploads/2018/08/Sin-t%C3%ADtulo-1.jpg)
 ## Introduccion (que es azure y para que sirve por si alguien quiere hacerlo)
-
-##Conceptos de azure a memorizar
+aqui iria l introduccion si hubiera hecho alguna, alguien agala porfas
+## Conceptos de azure a memorizar
 
 | Concepto | Definición | Imagen Representativa |
 | ------------- | ------------- | ------------- |
@@ -37,6 +37,6 @@
 ## Collage de conceptos de azure
 ![Collage](https://github.com/JuanCRuizO/Reto-1-Master/blob/main/WordArt.png)
 ## Collage de Imagenes
-
+pueden ser de los conceptos o de las empresas, del siguiente punto
 ## Empresas que usan azure y en donde lo han usado y si se puede el poner el como
-
+*si se puede hacer un mapa mental o algo asi mejor para que sea mas facil leer*
