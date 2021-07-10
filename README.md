@@ -33,5 +33,5 @@
 |Azure| es un conjunto de servicios en la nube de la empresa Microsoft.||
 |Cómputo en la nube| describe la acción de almacenar, administrar y procesar datos en línea, en lugar de hacerlo en su computadora o red física.||
 
-## (Collage de conceptos de azure)
+## Collage de conceptos de azure
 ![Collage](https://github.com/JuanCRuizO/Reto-1-Master/blob/main/WordArt.png)
