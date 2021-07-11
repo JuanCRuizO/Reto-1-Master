@@ -4,7 +4,7 @@
 ###### Bienvenidos a este espacio con información para la certificación de Azure, este se irá actualizando con el tiempo, esperamos que sea de su agrado.
 
 ![Microsoft Azure](https://github.com/JuanCRuizO/Reto-1-Master/blob/main/Azure.jpg)
-## Introduccion (que es azure y para que sirve por si alguien quiere hacerlo)
+## Introducción
 El cómputo en la nube es algo revolucionario, la técnica más nueva para ahorrar dinero y usar nuevos recursos. Como todas las compañías de tecnolgía, Microsoft se ha unido a esto creando Azure, su conjunto de servicios Saas, PaaS e IaaS que sirven para aportar nuevas soluciones brindando más poder a nuestros equipos sin necesidad de usar más recursos físicos, con ayuda de sus mas de 200 aplicaciones; ¿No entiendes nada de lo anterior? No te preocupes, a continuación te mostramos los conceptos fundamentales para entender mucho mejor lo que rodea a Azure.
 ## Conceptos de Azure a memorizar
 
