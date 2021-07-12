@@ -38,5 +38,5 @@ El cómputo en la nube es algo revolucionario, la técnica más nueva para ahorr
 ![Collage](https://github.com/JuanCRuizO/Reto-1-Master/blob/main/WordArt.png)
 ## El cloud computing en las empresas
 ![Mosaico](https://github.com/JuanCRuizO/Reto-1-Master/blob/main/mosaico.jpg)
-## Empresas que usan Azure
+## Algunas empresas que usan Azure
 ![Mapa](https://github.com/JuanCRuizO/Reto-1-Master/blob/main/Mapa.jpeg)
